@@ -11,3 +11,4 @@ alembic==1.11.1
 apscheduler==3.10.1
 pydantic==2.5.1
 pymysql
+firebase-admin==6.3.0
